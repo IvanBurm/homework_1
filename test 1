@@ -9,3 +9,8 @@
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
